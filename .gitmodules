@@ -1,0 +1,8 @@
+[submodule "wx/radar/lwx"]
+	path = wx/radar/lwx
+	url = git@github.com:dinomite/LayerRadar.git
+	branch = lwx
+[submodule "wx/radar/mux"]
+	path = wx/radar/mux
+	url = git@github.com:dinomite/LayerRadar.git
+	branch = mux
